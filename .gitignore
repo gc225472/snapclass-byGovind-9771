@@ -1,0 +1,25 @@
+
+# Virtual environment
+env/
+venv/
+venv*/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+secrets.toml
+
+# macOS and editor
+.DS_Store
+.vscode/
+
+# Build output
+dist/
+build/

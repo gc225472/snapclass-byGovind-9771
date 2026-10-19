@@ -1,0 +1,18 @@
+streamlit
+numpy
+pandas
+scikit-learn
+dlib-bin==20.0.1.post1
+ git+https://github.com/ageitgey/face_recognition_models
+setuptools<70.0.0
+
+supabase
+bcrypt
+
+# for Qr code 
+segno
+
+pillow
+
+librosa
+resemblyzer
